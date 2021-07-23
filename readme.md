@@ -1,9 +1,2 @@
-Meu primeiro arquivo GIT
-
-alterando mais uma vez
-
-
-alteração feita no master
-
-ok
+Meu primeiro arquivo GIT (alterado e atualizado)
 
